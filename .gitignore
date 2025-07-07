@@ -1,0 +1,11 @@
+*.tmp
+
+~$*.ppt*
+*.pptx
+*.tmp.nlogo
+.Rproj.user
+*.Rproj
+*.Rhistory
+*.RData
+*.csv
+*.txt
